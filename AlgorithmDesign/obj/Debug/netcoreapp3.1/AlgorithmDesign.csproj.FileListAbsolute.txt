@@ -1,0 +1,13 @@
+D:\PROJECTS\Visual Studio Projects\AlgorthmDesign\AlgorithDesign\bin\Debug\netcoreapp3.1\AlgorithmDesign.exe
+D:\PROJECTS\Visual Studio Projects\AlgorthmDesign\AlgorithDesign\bin\Debug\netcoreapp3.1\AlgorithmDesign.deps.json
+D:\PROJECTS\Visual Studio Projects\AlgorthmDesign\AlgorithDesign\bin\Debug\netcoreapp3.1\AlgorithmDesign.runtimeconfig.json
+D:\PROJECTS\Visual Studio Projects\AlgorthmDesign\AlgorithDesign\bin\Debug\netcoreapp3.1\AlgorithmDesign.runtimeconfig.dev.json
+D:\PROJECTS\Visual Studio Projects\AlgorthmDesign\AlgorithDesign\bin\Debug\netcoreapp3.1\AlgorithmDesign.dll
+D:\PROJECTS\Visual Studio Projects\AlgorthmDesign\AlgorithDesign\bin\Debug\netcoreapp3.1\AlgorithmDesign.pdb
+D:\PROJECTS\Visual Studio Projects\AlgorthmDesign\AlgorithDesign\obj\Debug\netcoreapp3.1\AlgorithmDesign.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Visual Studio Projects\AlgorthmDesign\AlgorithDesign\obj\Debug\netcoreapp3.1\AlgorithmDesign.AssemblyInfoInputs.cache
+D:\PROJECTS\Visual Studio Projects\AlgorthmDesign\AlgorithDesign\obj\Debug\netcoreapp3.1\AlgorithmDesign.AssemblyInfo.cs
+D:\PROJECTS\Visual Studio Projects\AlgorthmDesign\AlgorithDesign\obj\Debug\netcoreapp3.1\AlgorithmDesign.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Visual Studio Projects\AlgorthmDesign\AlgorithDesign\obj\Debug\netcoreapp3.1\AlgorithmDesign.dll
+D:\PROJECTS\Visual Studio Projects\AlgorthmDesign\AlgorithDesign\obj\Debug\netcoreapp3.1\AlgorithmDesign.pdb
+D:\PROJECTS\Visual Studio Projects\AlgorthmDesign\AlgorithDesign\obj\Debug\netcoreapp3.1\AlgorithmDesign.genruntimeconfig.cache
